@@ -1,0 +1,13 @@
+1. python memory mangement
+2. python inbuilt datastructure
+3. python loops
+4. python functions
+5. class and objects and class level variables- oops in python
+
+usecase >
+
+Mini Banking project
+
+
+
+
